@@ -1,0 +1,81 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/birundachelliah/Desktop/RSquareEdge/Web Basics/Environment/important.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}11 Feb 2016, 13:21:18
+
+{com}.  tab V4 
+
+              {txt}Important in life: Family {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+                         Very important {c |}{res}     82,212       91.33       91.33
+{txt}                       Rather important {c |}{res}      6,591        7.32       98.65
+{txt}                     Not very important {c |}{res}        859        0.95       99.61
+{txt}                   Not at all important {c |}{res}        355        0.39      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}     90,017      100.00
+
+{com}.  tab V5
+
+             {txt}Important in life: Friends {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+                         Very important {c |}{res}     41,787       46.52       46.52
+{txt}                       Rather important {c |}{res}     36,795       40.97       87.49
+{txt}                     Not very important {c |}{res}      9,427       10.50       97.98
+{txt}                   Not at all important {c |}{res}      1,811        2.02      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}     89,820      100.00
+
+{com}.  tab V6
+
+        {txt}Important in life: Leisure time {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+                         Very important {c |}{res}     32,884       36.82       36.82
+{txt}                       Rather important {c |}{res}     37,408       41.88       78.70
+{txt}                     Not very important {c |}{res}     14,895       16.68       95.37
+{txt}                   Not at all important {c |}{res}      4,135        4.63      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}     89,322      100.00
+
+{com}. tab V7
+
+            {txt}Important in life: Politics {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+                         Very important {c |}{res}     13,429       15.13       15.13
+{txt}                       Rather important {c |}{res}     26,449       29.81       44.94
+{txt}                     Not very important {c |}{res}     29,651       33.42       78.36
+{txt}                   Not at all important {c |}{res}     19,206       21.64      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}     88,735      100.00
+
+{com}. tab V8
+
+                {txt}Important in life: Work {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+                         Very important {c |}{res}     55,614       62.61       62.61
+{txt}                       Rather important {c |}{res}     22,920       25.80       88.41
+{txt}                     Not very important {c |}{res}      6,576        7.40       95.81
+{txt}                   Not at all important {c |}{res}      3,722        4.19      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}     88,832      100.00
+
+{com}. tab V9
+
+            {txt}Important in life: Religion {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+                         Very important {c |}{res}     45,025       50.58       50.58
+{txt}                       Rather important {c |}{res}     19,670       22.10       72.68
+{txt}                     Not very important {c |}{res}     14,160       15.91       88.59
+{txt}                   Not at all important {c |}{res}     10,161       11.41      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}     89,016      100.00
+
+{com}. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}/Users/birundachelliah/Desktop/RSquareEdge/Web Basics/Environment/important.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}11 Feb 2016, 13:21:26
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}

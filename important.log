@@ -1,0 +1,80 @@
+--------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /Users/birundachelliah/Desktop/RSquareEdge/Web Basics/Environment/i
+> mportant.log
+  log type:  text
+ opened on:  11 Feb 2016, 13:18:29
+
+.  tab V4 
+
+              Important in life: Family |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                         Very important |     82,212       91.33       91.33
+                       Rather important |      6,591        7.32       98.65
+                     Not very important |        859        0.95       99.61
+                   Not at all important |        355        0.39      100.00
+----------------------------------------+-----------------------------------
+                                  Total |     90,017      100.00
+
+.  tab V5
+
+             Important in life: Friends |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                         Very important |     41,787       46.52       46.52
+                       Rather important |     36,795       40.97       87.49
+                     Not very important |      9,427       10.50       97.98
+                   Not at all important |      1,811        2.02      100.00
+----------------------------------------+-----------------------------------
+                                  Total |     89,820      100.00
+
+.  tab V6
+
+        Important in life: Leisure time |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                         Very important |     32,884       36.82       36.82
+                       Rather important |     37,408       41.88       78.70
+                     Not very important |     14,895       16.68       95.37
+                   Not at all important |      4,135        4.63      100.00
+----------------------------------------+-----------------------------------
+                                  Total |     89,322      100.00
+
+. tab V7
+
+            Important in life: Politics |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                         Very important |     13,429       15.13       15.13
+                       Rather important |     26,449       29.81       44.94
+                     Not very important |     29,651       33.42       78.36
+                   Not at all important |     19,206       21.64      100.00
+----------------------------------------+-----------------------------------
+                                  Total |     88,735      100.00
+
+. tab V8
+
+                Important in life: Work |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                         Very important |     55,614       62.61       62.61
+                       Rather important |     22,920       25.80       88.41
+                     Not very important |      6,576        7.40       95.81
+                   Not at all important |      3,722        4.19      100.00
+----------------------------------------+-----------------------------------
+                                  Total |     88,832      100.00
+
+. tab V9
+
+            Important in life: Religion |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                         Very important |     45,025       50.58       50.58
+                       Rather important |     19,670       22.10       72.68
+                     Not very important |     14,160       15.91       88.59
+                   Not at all important |     10,161       11.41      100.00
+----------------------------------------+-----------------------------------
+                                  Total |     89,016      100.00
+
+. log close
+      name:  <unnamed>
+       log:  /Users/birundachelliah/Desktop/RSquareEdge/Web Basics/Environment/i
+> mportant.log
+  log type:  text
+ closed on:  11 Feb 2016, 13:18:40
+--------------------------------------------------------------------------------

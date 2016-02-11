@@ -24,12 +24,34 @@
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="js/ie-emulation-modes-warning.js"></script>
+    <script src="js/jquery-1.12.0.min.js"></script>  
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+  <script>
+$(document).ready(function(){ 
+
+   $("#1").click(function(){
+    $("#family").show();
+    $("#religion").hide();
+    });
+    
+
+$("#2").click(function(){
+    $("#religion").show();
+     $("#family").hide();
+  });
+});
+  </script>
+
+
+   
+
+
   </head>
 
   <body>
@@ -55,16 +77,103 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>Key Insights of World Values Survey</h1>
-        <p>This is a website that will will analyze the the World Value Survey dataset on a few certain issues such as Happiness, Environmental Concern, Trust in Government, Religious preference etc. This particular dataset is from the sixth wave of the survey, focused mainly on the years 2010-2014.</p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more on Data & Documentation &raquo;</a></p>
+        <h1>Descriptive Stats on main variables</h1>
+        <p>Data Analysis will be presented in a tabular format</p>
       </div>
     </div>
 
-  
+    <div class="dropdown">
+  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Important in Life
+  <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+    <li><a id="1" href="#">Family</a></li>
+    <li><a id="2" href="#">Religion</a></li>
+    <li><a href="#">Politics</a></li>
+  </ul>
+</div>
+
+<div id="family" style="display:none">
+
+  <h3> Table 1: How important is Family in life? </h3>
+
+<div class="container">         
+  <table id="table1" class="table table-striped">
+    <thead>
+      <tr>
+        <th>Imporance in Life: Family</th>
+        <th>Frequency</th>
+        <th>Percent (%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Very important</td>
+        <td>82,212</td>
+        <td>91.33</td>
+      </tr>
+      <tr>
+        <td>Rather important</td>
+        <td>6,591</td>
+        <td>7.32</td>
+      </tr>
+      <tr>
+        <td>Not very important</td>
+        <td>859</td>
+        <td>0.95</td>
+      </tr>
+      <tr>
+        <td>Not at all important</td>
+        <td>355</td>
+        <td>0.39</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</div>
+
+
+<br>
+
+<div id="religion" style="display:none">
+<h3 id="religion"> Table 2: How important is Religion in life?</h3>
+
+<div class="container">         
+  <table id="table2" class="table table-striped">
+    <thead>
+      <tr>
+        <th>Imporance in Life: Religion</th>
+        <th>Frequency</th>
+        <th>Percent (%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Very important</td>
+        <td>45,025</td>
+        <td>50.58</td>
+      </tr>
+      <tr>
+        <td>Rather important</td>
+        <td>19,670</td>
+        <td>22.10</td>
+      </tr>
+      <tr>
+        <td>Not very important</td>
+        <td>14,160</td>
+        <td>15.91</td>
+      </tr>
+      <tr>
+        <td>Not at all important</td>
+        <td>10,161</td>
+        <td>11.41</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</div>
 
       <footer>
-        <p>&copy; 2015 Company, Inc.</p>
+        <p>&copy; 2016 Company, Inc.</p>
       </footer>
     </div> <!-- /container -->
 
